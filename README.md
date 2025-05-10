@@ -1,3 +1,4 @@
+https://frontend-intern-three-js.vercel.app/
 # Three.js Object Highlighter Using Stencil Buffer
 
 This project demonstrates a 3D scene built with Three.js where users can click on objects to highlight them with an outline effect using the stencil buffer technique.
@@ -43,7 +44,7 @@ This creates a clean outline effect that works with any geometry.
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/your-username/three-js-object-highlighter.git
+   git clone https://github.com/Nagoorsaheb718/three-js-object-highlighter.git
    cd three-js-object-highlighter
    \`\`\`
 
